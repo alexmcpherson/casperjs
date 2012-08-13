@@ -16,7 +16,7 @@ type.
 
 <h3 id="utils.dump"><code>utils.dump(value)</code></h3>
 
-Dumps a JSON representation od passed argument onto the standard output. Useful
+Dumps a JSON representation of passed argument onto the standard output. Useful
 for [debugging](debugging.html).
 
 <h3 id="utils.fileExt"><code>utils.fileExt(file)</code></h3>
